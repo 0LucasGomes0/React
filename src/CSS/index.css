@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    font-size: 1.4rem;
+    background: #000000;
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    background: linear-gradient(to right, #434343, #000000);
+    color:white;
+}

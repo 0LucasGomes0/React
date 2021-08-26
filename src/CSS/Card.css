@@ -1,0 +1,25 @@
+.Card{
+
+    margin: 400px;
+    margin-right: 300 ;
+    margin-left: 300px;
+    border: 10px solid #000;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+}
+
+.Card .Conteudo{
+
+    background-color: white;
+    color: black;
+    padding: 5px 5px;
+
+}
+
+.Card .Footer{
+
+    background-color: black ;
+    color: white;
+    padding:5px 0px;
+}
